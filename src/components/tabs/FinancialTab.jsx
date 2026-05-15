@@ -110,7 +110,7 @@ function PSEFinancial() {
               <tbody>
                 {lot.candidates.map((c, i) => {
                   const b = c[lot.bidKey]
-                  const per = c[lot.perKey]
+                  const per = b?.[lot.perKey]
                   return (
                     <tr key={i} className="border-b border-gray-100">
                       <td className="px-4 py-2 font-medium text-gray-700">{c.name}</td>
