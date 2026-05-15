@@ -6,9 +6,7 @@ A decision-support web application for senior government procurement officials i
 
 [https://max-bell-public-policy.github.io/1procurement-framework/](https://max-bell-public-policy.github.io/1procurement-framework/)
 
-Functional: [[https://theosaintem.github.io/procurement-framework/#/framework](https://max-bell-public-policy.github.io/1procurement-framework/)](https://max-bell-public-policy.github.io/1procurement-framework/)
-
-https://github.com/Max-Bell-Public-Policy/1procurement-framework 
+Correct URL: https://max-bell-public-policy.github.io/1procurement-framework/ 
 
 ## Local Development
 
