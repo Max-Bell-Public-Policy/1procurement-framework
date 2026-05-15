@@ -6,6 +6,8 @@ A decision-support web application for senior government procurement officials i
 
 [https://TheoSaintem.github.io/procurement-framework/](https://TheoSaintem.github.io/procurement-framework/)
 
+Functional: https://theosaintem.github.io/procurement-framework/#/framework
+
 ## Local Development
 
 ```bash
