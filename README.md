@@ -4,7 +4,7 @@ A decision-support web application for senior government procurement officials i
 
 ## Live Demo
 
-[https://TheoSaintem.github.io/procurement-framework/](https://TheoSaintem.github.io/procurement-framework/)
+[https://max-bell-public-policy.github.io/1procurement-framework/](https://max-bell-public-policy.github.io/1procurement-framework/)
 
 Functional: https://theosaintem.github.io/procurement-framework/#/framework
 

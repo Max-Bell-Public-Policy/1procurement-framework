@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/procurement-framework/',
+  base: '/1procurement-framework/',
 })
